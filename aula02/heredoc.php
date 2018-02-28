@@ -2,10 +2,11 @@
 
 echo "<pre>";
 $nome = "rubens";
-$texto = <<< TXT;
+$texto = <<< TXT
 kkkk
 kkkk
+	$nome
 kkkk
 TXT;
 
-echo "texto;
+echo $texto;
