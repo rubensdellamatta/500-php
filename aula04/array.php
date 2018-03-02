@@ -3,7 +3,7 @@ echo "<pre>";
 $array = ["Lucas","4Linux","Joao"];
 $array2 = array("Lucas","4Linux","Joao");
 $pessoa = ["Lucas",24 , 1.80,82,"Marques",1];
-$pessoa[] = "Programador";
+$pessoa[] = "Programador"; //no final do array
 // print_r($pessoa);
 // echo $pessoa[5];
 for ($i=0; $i < 7; $i++) { 

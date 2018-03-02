@@ -38,8 +38,8 @@ $pessoas = [
 ];
 // print_r($pessoas);
 foreach ($pessoas as $pessoa){
-	echo "Meu nome é: " . $pessoa['nome'] . "<br>";
-	echo "Tenho " . $pessoa['idade'] . " anos <br>";
+	echo "Meu nome é: " . $pessoa['nome'] . "<br>"; // "  " . '  ' contatena
+ 	echo "Tenho " . $pessoa['idade'] . " anos <br>";
 	echo "Meu email é: " . $pessoa['email'];
 }
 
