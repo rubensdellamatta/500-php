@@ -1,8 +1,10 @@
 <?php 
 echo "<pre>";
 
+
+//echo
 // ----------------"<hr>";
 // pula linha "<br>";
-/* x
-   x
-   "\n";
+// "\n";
+// "  " . '  
+//' contatena
